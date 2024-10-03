@@ -1,3 +1,3 @@
 # AWSDevops
 This is my first Git Repository.
-Author - Pawan Patil
+Author - Pawan Patil (AWSDevops)
